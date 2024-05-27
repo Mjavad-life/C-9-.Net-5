@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithArrays", "FunWithArrays\FunWithArrays.csproj", "{46ED31B4-62AB-4110-BA19-945BAE969A94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithMethods", "FunWithMethods\FunWithMethods.csproj", "{27372E75-ABF5-4506-AE3E-8FFF8CD6E302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46ED31B4-62AB-4110-BA19-945BAE969A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46ED31B4-62AB-4110-BA19-945BAE969A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46ED31B4-62AB-4110-BA19-945BAE969A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46ED31B4-62AB-4110-BA19-945BAE969A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27372E75-ABF5-4506-AE3E-8FFF8CD6E302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27372E75-ABF5-4506-AE3E-8FFF8CD6E302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27372E75-ABF5-4506-AE3E-8FFF8CD6E302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27372E75-ABF5-4506-AE3E-8FFF8CD6E302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9264F80-766A-49B4-A393-68A76052CFA0}
+	EndGlobalSection
+EndGlobal
